@@ -1,158 +1,207 @@
-# War Intelligence Analytics Dashboard
+# 🌍 War Intelligence Analytics Dashboard
 
-## Overview
+<div align="center">
 
-The War Intelligence Analytics Dashboard is an interactive data visualization platform designed to transform raw conflict-event data into actionable intelligence.
+### Interactive Geopolitical Intelligence Platform
 
-Modern conflict information is often fragmented across numerous news reports, making it difficult to identify emerging trends, compare conflict intensity, evaluate casualty impact, and understand media reporting patterns. This project addresses that challenge by consolidating war-event data into a centralized analytical dashboard.
+Analyze global conflict events through geospatial intelligence, casualty analysis, event monitoring, and media coverage analytics.
 
-Built using Python, Dash, Plotly, and Pandas, the system enables users to explore global conflict activity through dynamic visualizations and real-time filtering.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-000000?style=flat-square&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
----
-
-## Problem Statement
-
-Analysts, journalists, researchers, and policymakers require efficient tools to monitor conflict developments across different regions.
-
-Traditional reporting methods provide event-level information but often fail to reveal:
-
-* Geographic hotspots of conflict activity
-* Escalation and de-escalation trends
-* Relative intensity of ongoing conflicts
-* Casualty distribution patterns
-* Media reporting behavior
-* Differences in warfare tactics
-
-The objective of this project was to create a decision-support dashboard capable of converting raw war-event records into meaningful analytical insights.
+</div>
 
 ---
 
-## Key Features
+# 🎥 Live Dashboard Demo
 
-### Global Conflict Intelligence Map
+> Upload your MP4 to GitHub and paste the generated video URL here.
 
-Interactive geospatial visualization displaying conflict events using latitude and longitude coordinates.
-
-Features:
-
-* Zoomable world map
-* Conflict-based color coding
-* Fatality-based marker sizing
-* Geographic hotspot identification
-
-### Conflict Timeline Analysis
-
-Tracks conflict activity over time.
-
-Features:
-
-* Monthly event aggregation
-* Trend visualization
-* Escalation detection
-* Comparative conflict tracking
-
-### Conflict Comparison Analytics
-
-Compares conflicts using casualty-based metrics.
-
-Features:
-
-* Total fatalities by conflict
-* Comparative impact assessment
-* Visual ranking of conflicts
-
-### Warfare Tactics Analysis
-
-Examines the distribution of event types.
-
-Features:
-
-* Event type categorization
-* Tactical distribution analysis
-* Warfare pattern identification
-
-### Fatality Impact Assessment
-
-Analyzes casualty distributions across conflicts.
-
-Features:
-
-* Box plot visualization
-* Outlier detection
-* High-impact event identification
-* Casualty variability analysis
-
-### Media Coverage Intelligence
-
-Explores reporting behavior across news organizations.
-
-Features:
-
-* Source-conflict heatmap
-* Reporting concentration analysis
-* Coverage pattern discovery
+VIDEO_URL_HERE
 
 ---
 
-## Interactive Dashboard Controls
+# 📊 Dashboard Preview
 
-The dashboard supports dynamic filtering using:
+## Global Conflict Intelligence Map
 
-* Date Range Selector
-* Conflict Selector
-* Event Type Selector
-* Country Selector
-* News Source Selector
+Interactive geospatial visualization of conflict events worldwide. Marker size and color represent conflict intensity and casualty magnitude, enabling rapid identification of conflict hotspots.
 
-All visualizations update simultaneously through Dash callback functions, enabling real-time exploratory analysis.
+![Global Conflict Map](screenshots/map.png)
 
 ---
 
-## Technology Stack
+## Conflict Timeline Analysis
 
-* Python
-* Dash
-* Plotly
-* Pandas
-* NumPy
-* JupyterDash
+Monitor escalation and de-escalation trends across conflicts through temporal event analysis.
+
+![Timeline Analysis](screenshots/timeline.png)
 
 ---
 
-## Data Processing
+## Conflict Comparison Analytics
 
-The system performs:
+Compare conflicts based on fatalities, event frequency, and relative impact.
 
-* Data cleaning
-* Missing value handling
-* Datetime conversion
-* Feature engineering
-* Monthly aggregation
-* Multi-dimensional filtering
+![Conflict Comparison Dashboard](screenshots/scatter.png)
 
 ---
 
-## Business Value
+## Media Coverage Intelligence
 
-This dashboard demonstrates how data visualization and analytics techniques can transform unstructured conflict-event reports into an interactive intelligence platform.
+Analyze reporting behavior across news organizations and identify coverage concentration patterns.
 
-The project showcases skills in:
+![Source Coverage Heatmap](screenshots/heatmap.png)
 
-* Data Analytics
+---
+
+# 🚀 Project Overview
+
+The War Intelligence Analytics Dashboard transforms raw war-event datasets into an interactive analytical platform capable of providing actionable geopolitical insights.
+
+Modern conflict information is often fragmented across multiple news reports and regions. This dashboard centralizes conflict-event data and provides powerful visual analytics for researchers, journalists, analysts, and decision-makers.
+
+The platform enables users to:
+
+- Identify geographic conflict hotspots
+- Monitor conflict escalation patterns
+- Compare conflict severity and impact
+- Analyze casualty distributions
+- Study warfare tactic trends
+- Evaluate media reporting behavior
+
+---
+
+# ✨ Core Features
+
+### 🌍 Global Conflict Mapping
+- Interactive geographic visualization
+- Latitude/longitude event tracking
+- Fatality-based marker sizing
+- Conflict hotspot identification
+
+### 📈 Temporal Trend Analysis
+- Monthly event aggregation
+- Escalation detection
+- Historical conflict tracking
+- Dynamic filtering
+
+### ⚔️ Conflict Comparison
+- Fatality analysis
+- Event volume comparison
+- Relative conflict intensity measurement
+
+### 📊 Event-Type Analytics
+- Warfare tactic distribution
+- Combat pattern identification
+- Conflict-specific event analysis
+
+### ☠️ Fatality Impact Assessment
+- Casualty distribution visualization
+- Outlier detection
+- High-impact event identification
+
+### 📰 Media Intelligence
+- News-source analysis
+- Reporting concentration patterns
+- Source-conflict relationships
+
+---
+
+# 🎛 Interactive Controls
+
+The dashboard supports synchronized filtering across all visualizations.
+
+| Filter | Purpose |
+|----------|----------|
+| Conflict | Analyze individual conflicts |
+| Event Type | Explore warfare tactics |
+| Date Range | Study temporal trends |
+| Country | Geographic analysis |
+| News Source | Media intelligence |
+
+All dashboard components update dynamically using Dash callback architecture.
+
+---
+
+# 🏗 Technology Stack
+
+## Backend
+
+- Python
+- Pandas
+- NumPy
+
+## Dashboard Framework
+
+- Dash
+- JupyterDash
+
+## Visualization
+
+- Plotly Express
+- Plotly Graph Objects
+
+## Data Analytics
+
+- Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis
+- Geospatial Analytics
+
+---
+
+# 📂 Project Structure
+
+```text
+War-Intelligence-Analytics-Dashboard
+│
+├── notebook.ipynb
+├── dataset.csv
+│
+├── screenshots
+│   ├── map.png
+│   ├── timeline.png
+│   ├── scatter.png
+│   ├── heatmap.png
+│   └── demo.mp4
+│
+└── README.md
+````
+
+---
+
+# 📈 Skills Demonstrated
+
 * Data Visualization
-* Dashboard Development
+* Interactive Dashboard Development
 * Business Intelligence
-* Geospatial Analytics
 * Exploratory Data Analysis (EDA)
-* Interactive Application Development
+* Geospatial Analytics
+* Data Cleaning & Transformation
+* Python Application Development
+* Dashboard UI/UX Design
 
 ---
 
-## Future Enhancements
+# 🔮 Future Improvements
 
-* Live news API integration
-* Predictive conflict trend modeling
-* Sentiment analysis on news reports
-* Advanced statistical forecasting
-* User authentication and reporting modules
-* Cloud deployment
+* Real-time News API Integration
+* Predictive Conflict Forecasting
+* Machine Learning Trend Analysis
+* Sentiment Analysis
+* Cloud Deployment
+* User Authentication
+
+---
+
+# 👨‍💻 Author
+
+**Adi Kashyap**
+
+GitHub: [https://github.com/Astro-Phile](https://github.com/Astro-Phile)
+
+
