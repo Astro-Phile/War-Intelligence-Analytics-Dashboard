@@ -1,3 +1,5 @@
+
+
 # 🌍 War Intelligence Analytics Dashboard
 
 <div align="center">
@@ -13,16 +15,6 @@ Analyze global conflict events through geospatial intelligence, casualty analysi
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 </div>
-
----
-
-# 🎥 Live Dashboard Demo
-
-> Upload your MP4 to GitHub and paste the generated video URL here.
-
-VIDEO_URL_HERE
-
----
 
 # 📊 Dashboard Preview
 
