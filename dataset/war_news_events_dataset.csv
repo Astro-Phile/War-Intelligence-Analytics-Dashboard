@@ -1,0 +1,301 @@
+Date,Country,Conflict,Event_Type,Fatalities,Source,Summary,Latitude,Longitude
+2023-01-01,Myanmar,Myanmar Conflict,Missile Strike,33,Al Jazeera,Missile Strike reported in Myanmar related to Myanmar Conflict.,21.1342,96.2032
+2023-01-01,Myanmar,Myanmar Conflict,Drone Attack,25,The Guardian,Drone Attack reported in Myanmar related to Myanmar Conflict.,21.3402,95.2146
+2023-01-18,Myanmar,Myanmar Conflict,Ground Combat,28,Associated Press,Ground Combat reported in Myanmar related to Myanmar Conflict.,21.1504,95.0739
+2023-02-03,Myanmar,Myanmar Conflict,Airstrike,37,BBC,Airstrike reported in Myanmar related to Myanmar Conflict.,21.4103,96.4058
+2023-02-05,Myanmar,Myanmar Conflict,Drone Attack,30,Reuters,Drone Attack reported in Myanmar related to Myanmar Conflict.,21.6601,95.5623
+2023-02-09,Sudan,Sudan Civil War,Drone Attack,31,The Guardian,Drone Attack reported in Sudan related to Sudan Civil War.,12.2701,29.2294
+2023-02-12,Ukraine,Russia-Ukraine War,Cyber Operation,0,The Guardian,Cyber Operation reported in Ukraine related to Russia-Ukraine War.,48.3099,31.0592
+2023-02-23,Myanmar,Myanmar Conflict,Ground Combat,41,The Guardian,Ground Combat reported in Myanmar related to Myanmar Conflict.,21.7195,95.5117
+2023-02-25,Sudan,Sudan Civil War,Political Negotiation,16,BBC,Political Negotiation reported in Sudan related to Sudan Civil War.,12.6586,31.0512
+2023-02-26,Sudan,Sudan Civil War,Airstrike,71,The Guardian,Airstrike reported in Sudan related to Sudan Civil War.,11.9841,29.7551
+2023-03-01,Myanmar,Myanmar Conflict,Drone Attack,15,Al Jazeera,Drone Attack reported in Myanmar related to Myanmar Conflict.,22.3706,95.7884
+2023-03-02,Myanmar,Myanmar Conflict,Airstrike,24,Associated Press,Airstrike reported in Myanmar related to Myanmar Conflict.,22.7278,96.5241
+2023-03-05,Myanmar,Myanmar Conflict,Airstrike,0,Al Jazeera,Airstrike reported in Myanmar related to Myanmar Conflict.,21.0313,96.3324
+2023-03-08,Myanmar,Myanmar Conflict,Cyber Operation,0,Al Jazeera,Cyber Operation reported in Myanmar related to Myanmar Conflict.,21.8428,95.2396
+2023-03-09,Myanmar,Myanmar Conflict,Political Negotiation,15,Associated Press,Political Negotiation reported in Myanmar related to Myanmar Conflict.,21.6271,95.0692
+2023-03-16,Myanmar,Myanmar Conflict,Missile Strike,18,Associated Press,Missile Strike reported in Myanmar related to Myanmar Conflict.,22.2026,95.0436
+2023-03-19,Myanmar,Myanmar Conflict,Ground Combat,2,BBC,Ground Combat reported in Myanmar related to Myanmar Conflict.,21.7499,96.1966
+2023-03-24,Sudan,Sudan Civil War,Drone Attack,50,Reuters,Drone Attack reported in Sudan related to Sudan Civil War.,12.442,29.3705
+2023-03-27,Sudan,Sudan Civil War,Missile Strike,53,Al Jazeera,Missile Strike reported in Sudan related to Sudan Civil War.,13.3389,29.616
+2023-04-02,Sudan,Sudan Civil War,Ground Combat,45,Reuters,Ground Combat reported in Sudan related to Sudan Civil War.,12.0318,30.9001
+2023-04-07,Myanmar,Myanmar Conflict,Airstrike,0,BBC,Airstrike reported in Myanmar related to Myanmar Conflict.,21.893,96.181
+2023-04-08,Myanmar,Myanmar Conflict,Drone Attack,2,The Guardian,Drone Attack reported in Myanmar related to Myanmar Conflict.,21.1816,95.9491
+2023-04-10,Myanmar,Myanmar Conflict,Cyber Operation,17,Reuters,Cyber Operation reported in Myanmar related to Myanmar Conflict.,22.058,96.0765
+2023-04-19,Myanmar,Myanmar Conflict,Drone Attack,23,BBC,Drone Attack reported in Myanmar related to Myanmar Conflict.,21.9894,95.9856
+2023-04-20,Myanmar,Myanmar Conflict,Airstrike,29,Reuters,Airstrike reported in Myanmar related to Myanmar Conflict.,21.3044,96.7257
+2023-04-22,Myanmar,Myanmar Conflict,Cyber Operation,23,Associated Press,Cyber Operation reported in Myanmar related to Myanmar Conflict.,22.7707,96.4305
+2023-04-23,Myanmar,Myanmar Conflict,Cyber Operation,5,Reuters,Cyber Operation reported in Myanmar related to Myanmar Conflict.,20.9189,95.2073
+2023-04-23,Sudan,Sudan Civil War,Cyber Operation,19,BBC,Cyber Operation reported in Sudan related to Sudan Civil War.,12.4427,30.2178
+2023-04-24,Sudan,Sudan Civil War,Drone Attack,33,BBC,Drone Attack reported in Sudan related to Sudan Civil War.,12.6961,30.0023
+2023-04-27,Myanmar,Myanmar Conflict,Missile Strike,35,The Guardian,Missile Strike reported in Myanmar related to Myanmar Conflict.,21.0917,96.3665
+2023-04-27,Sudan,Sudan Civil War,Political Negotiation,8,Al Jazeera,Political Negotiation reported in Sudan related to Sudan Civil War.,12.8996,31.0341
+2023-04-28,Sudan,Sudan Civil War,Airstrike,46,Al Jazeera,Airstrike reported in Sudan related to Sudan Civil War.,13.6835,30.7561
+2023-04-29,Myanmar,Myanmar Conflict,Political Negotiation,7,Reuters,Political Negotiation reported in Myanmar related to Myanmar Conflict.,21.7127,95.9305
+2023-05-01,Myanmar,Myanmar Conflict,Airstrike,0,BBC,Airstrike reported in Myanmar related to Myanmar Conflict.,21.1206,95.6413
+2023-05-01,Sudan,Sudan Civil War,Ground Combat,42,Al Jazeera,Ground Combat reported in Sudan related to Sudan Civil War.,12.5034,30.1874
+2023-05-03,Myanmar,Myanmar Conflict,Cyber Operation,12,BBC,Cyber Operation reported in Myanmar related to Myanmar Conflict.,21.9798,96.003
+2023-05-04,Myanmar,Myanmar Conflict,Cyber Operation,31,Reuters,Cyber Operation reported in Myanmar related to Myanmar Conflict.,21.4452,95.4244
+2023-05-06,Myanmar,Myanmar Conflict,Cyber Operation,24,Al Jazeera,Cyber Operation reported in Myanmar related to Myanmar Conflict.,22.4946,95.7391
+2023-05-12,Myanmar,Myanmar Conflict,Cyber Operation,34,BBC,Cyber Operation reported in Myanmar related to Myanmar Conflict.,21.4929,96.457
+2023-05-17,Myanmar,Myanmar Conflict,Airstrike,16,Reuters,Airstrike reported in Myanmar related to Myanmar Conflict.,21.6992,96.8097
+2023-05-20,Sudan,Sudan Civil War,Missile Strike,17,Associated Press,Missile Strike reported in Sudan related to Sudan Civil War.,12.0208,29.6122
+2023-05-22,Myanmar,Myanmar Conflict,Airstrike,0,BBC,Airstrike reported in Myanmar related to Myanmar Conflict.,20.9807,96.375
+2023-05-22,Sudan,Sudan Civil War,Drone Attack,0,Al Jazeera,Drone Attack reported in Sudan related to Sudan Civil War.,13.0175,29.9381
+2023-05-23,Myanmar,Myanmar Conflict,Airstrike,37,The Guardian,Airstrike reported in Myanmar related to Myanmar Conflict.,22.9024,95.888
+2023-05-23,Sudan,Sudan Civil War,Airstrike,33,Associated Press,Airstrike reported in Sudan related to Sudan Civil War.,13.7781,30.9241
+2023-05-24,Yemen,Yemen Civil War,Drone Attack,20,Reuters,Drone Attack reported in Yemen related to Yemen Civil War.,14.9786,49.4646
+2023-05-24,Myanmar,Myanmar Conflict,Missile Strike,31,Al Jazeera,Missile Strike reported in Myanmar related to Myanmar Conflict.,21.1006,95.6879
+2023-05-25,Yemen,Yemen Civil War,Drone Attack,31,Al Jazeera,Drone Attack reported in Yemen related to Yemen Civil War.,14.9999,48.7185
+2023-05-25,Ukraine,Russia-Ukraine War,Airstrike,44,Al Jazeera,Airstrike reported in Ukraine related to Russia-Ukraine War.,49.1049,31.0731
+2023-05-29,Ukraine,Russia-Ukraine War,Political Negotiation,50,The Guardian,Political Negotiation reported in Ukraine related to Russia-Ukraine War.,47.9611,31.1987
+2023-05-29,Myanmar,Myanmar Conflict,Missile Strike,40,BBC,Missile Strike reported in Myanmar related to Myanmar Conflict.,22.2509,96.8063
+2023-05-31,Sudan,Sudan Civil War,Missile Strike,39,Associated Press,Missile Strike reported in Sudan related to Sudan Civil War.,12.1212,30.2714
+2023-06-01,Myanmar,Myanmar Conflict,Cyber Operation,0,The Guardian,Cyber Operation reported in Myanmar related to Myanmar Conflict.,22.8568,95.5716
+2023-06-02,Sudan,Sudan Civil War,Missile Strike,28,Associated Press,Missile Strike reported in Sudan related to Sudan Civil War.,12.3439,30.3905
+2023-06-04,Sudan,Sudan Civil War,Ground Combat,64,Al Jazeera,Ground Combat reported in Sudan related to Sudan Civil War.,12.1488,30.9833
+2023-06-05,Sudan,Sudan Civil War,Drone Attack,43,Al Jazeera,Drone Attack reported in Sudan related to Sudan Civil War.,13.0653,29.9765
+2023-06-05,Myanmar,Myanmar Conflict,Drone Attack,7,BBC,Drone Attack reported in Myanmar related to Myanmar Conflict.,21.8793,96.5669
+2023-06-06,Sudan,Sudan Civil War,Airstrike,22,BBC,Airstrike reported in Sudan related to Sudan Civil War.,12.4037,29.4767
+2023-06-07,Myanmar,Myanmar Conflict,Missile Strike,0,Reuters,Missile Strike reported in Myanmar related to Myanmar Conflict.,22.1851,96.5593
+2023-06-07,Myanmar,Myanmar Conflict,Ground Combat,16,BBC,Ground Combat reported in Myanmar related to Myanmar Conflict.,21.3225,95.0237
+2023-06-08,Sudan,Sudan Civil War,Drone Attack,30,The Guardian,Drone Attack reported in Sudan related to Sudan Civil War.,13.8604,30.396
+2023-06-13,Yemen,Yemen Civil War,Ground Combat,34,Al Jazeera,Ground Combat reported in Yemen related to Yemen Civil War.,16.4636,48.721
+2023-06-13,Yemen,Yemen Civil War,Missile Strike,0,The Guardian,Missile Strike reported in Yemen related to Yemen Civil War.,14.9724,49.4076
+2023-06-14,Sudan,Sudan Civil War,Drone Attack,27,Reuters,Drone Attack reported in Sudan related to Sudan Civil War.,11.8894,30.0548
+2023-06-15,Yemen,Yemen Civil War,Ground Combat,13,Reuters,Ground Combat reported in Yemen related to Yemen Civil War.,15.2901,47.7991
+2023-06-17,Yemen,Yemen Civil War,Political Negotiation,38,Associated Press,Political Negotiation reported in Yemen related to Yemen Civil War.,14.6848,48.99
+2023-06-18,Sudan,Sudan Civil War,Drone Attack,26,The Guardian,Drone Attack reported in Sudan related to Sudan Civil War.,12.651,29.5357
+2023-06-19,Yemen,Yemen Civil War,Airstrike,40,Al Jazeera,Airstrike reported in Yemen related to Yemen Civil War.,15.8816,48.2736
+2023-06-20,Yemen,Yemen Civil War,Political Negotiation,36,Associated Press,Political Negotiation reported in Yemen related to Yemen Civil War.,16.1486,48.9388
+2023-06-21,Myanmar,Myanmar Conflict,Drone Attack,8,Reuters,Drone Attack reported in Myanmar related to Myanmar Conflict.,21.8742,96.3234
+2023-06-21,Myanmar,Myanmar Conflict,Drone Attack,12,The Guardian,Drone Attack reported in Myanmar related to Myanmar Conflict.,21.7044,95.919
+2023-06-21,Sudan,Sudan Civil War,Cyber Operation,0,The Guardian,Cyber Operation reported in Sudan related to Sudan Civil War.,13.0226,30.13
+2023-06-22,Yemen,Yemen Civil War,Missile Strike,29,Associated Press,Missile Strike reported in Yemen related to Yemen Civil War.,15.206,47.8271
+2023-06-22,Yemen,Yemen Civil War,Political Negotiation,30,BBC,Political Negotiation reported in Yemen related to Yemen Civil War.,16.5022,48.9627
+2023-06-23,Yemen,Yemen Civil War,Ground Combat,55,Associated Press,Ground Combat reported in Yemen related to Yemen Civil War.,16.2576,48.8756
+2023-06-24,Myanmar,Myanmar Conflict,Drone Attack,41,BBC,Drone Attack reported in Myanmar related to Myanmar Conflict.,21.4163,95.8032
+2023-06-24,Sudan,Sudan Civil War,Missile Strike,17,Associated Press,Missile Strike reported in Sudan related to Sudan Civil War.,13.7197,31.009
+2023-06-26,Myanmar,Myanmar Conflict,Drone Attack,17,Reuters,Drone Attack reported in Myanmar related to Myanmar Conflict.,21.8443,96.5627
+2023-06-27,Russia,Russia-Ukraine War,Ground Combat,41,Reuters,Ground Combat reported in Russia related to Russia-Ukraine War.,56.5529,37.2954
+2023-06-28,Sudan,Sudan Civil War,Cyber Operation,6,Associated Press,Cyber Operation reported in Sudan related to Sudan Civil War.,13.4209,29.8769
+2023-07-01,Sudan,Sudan Civil War,Missile Strike,52,BBC,Missile Strike reported in Sudan related to Sudan Civil War.,13.3215,29.628
+2023-07-01,Myanmar,Myanmar Conflict,Drone Attack,37,Al Jazeera,Drone Attack reported in Myanmar related to Myanmar Conflict.,22.9092,95.8559
+2023-07-03,Yemen,Yemen Civil War,Cyber Operation,18,BBC,Cyber Operation reported in Yemen related to Yemen Civil War.,15.3792,48.1187
+2023-07-04,Sudan,Sudan Civil War,Airstrike,25,The Guardian,Airstrike reported in Sudan related to Sudan Civil War.,13.6896,31.099
+2023-07-05,Yemen,Yemen Civil War,Airstrike,18,BBC,Airstrike reported in Yemen related to Yemen Civil War.,16.3687,48.3765
+2023-07-05,Sudan,Sudan Civil War,Missile Strike,0,Al Jazeera,Missile Strike reported in Sudan related to Sudan Civil War.,12.6985,29.3203
+2023-07-06,Sudan,Sudan Civil War,Missile Strike,41,Reuters,Missile Strike reported in Sudan related to Sudan Civil War.,12.4241,29.3208
+2023-07-06,Sudan,Sudan Civil War,Political Negotiation,18,The Guardian,Political Negotiation reported in Sudan related to Sudan Civil War.,12.7891,30.7043
+2023-07-07,Yemen,Yemen Civil War,Political Negotiation,25,Reuters,Political Negotiation reported in Yemen related to Yemen Civil War.,14.6517,48.9811
+2023-07-08,Myanmar,Myanmar Conflict,Ground Combat,11,Reuters,Ground Combat reported in Myanmar related to Myanmar Conflict.,22.7193,95.5357
+2023-07-08,Myanmar,Myanmar Conflict,Ground Combat,7,Reuters,Ground Combat reported in Myanmar related to Myanmar Conflict.,21.0042,96.0191
+2023-07-11,Sudan,Sudan Civil War,Drone Attack,19,BBC,Drone Attack reported in Sudan related to Sudan Civil War.,12.4645,30.3322
+2023-07-12,Myanmar,Myanmar Conflict,Political Negotiation,14,The Guardian,Political Negotiation reported in Myanmar related to Myanmar Conflict.,21.267,96.9492
+2023-07-13,Sudan,Sudan Civil War,Political Negotiation,63,BBC,Political Negotiation reported in Sudan related to Sudan Civil War.,12.8955,29.628
+2023-07-15,Sudan,Sudan Civil War,Missile Strike,57,Reuters,Missile Strike reported in Sudan related to Sudan Civil War.,13.3059,30.4087
+2023-07-15,Myanmar,Myanmar Conflict,Ground Combat,25,BBC,Ground Combat reported in Myanmar related to Myanmar Conflict.,21.033,96.5137
+2023-07-15,Sudan,Sudan Civil War,Missile Strike,45,Associated Press,Missile Strike reported in Sudan related to Sudan Civil War.,12.4128,30.8489
+2023-07-16,Yemen,Yemen Civil War,Airstrike,19,Associated Press,Airstrike reported in Yemen related to Yemen Civil War.,16.3424,48.8219
+2023-07-17,Myanmar,Myanmar Conflict,Airstrike,15,Al Jazeera,Airstrike reported in Myanmar related to Myanmar Conflict.,20.9197,96.4575
+2023-07-18,Ukraine,Russia-Ukraine War,Missile Strike,11,BBC,Missile Strike reported in Ukraine related to Russia-Ukraine War.,48.7809,30.2273
+2023-07-18,Myanmar,Myanmar Conflict,Airstrike,34,Al Jazeera,Airstrike reported in Myanmar related to Myanmar Conflict.,22.3945,95.9658
+2023-07-20,Myanmar,Myanmar Conflict,Ground Combat,35,Reuters,Ground Combat reported in Myanmar related to Myanmar Conflict.,21.0196,95.241
+2023-07-21,Sudan,Sudan Civil War,Political Negotiation,21,BBC,Political Negotiation reported in Sudan related to Sudan Civil War.,12.7195,29.643
+2023-07-22,Sudan,Sudan Civil War,Cyber Operation,38,BBC,Cyber Operation reported in Sudan related to Sudan Civil War.,11.9378,30.0849
+2023-07-24,Myanmar,Myanmar Conflict,Political Negotiation,8,Al Jazeera,Political Negotiation reported in Myanmar related to Myanmar Conflict.,21.8874,96.7798
+2023-07-24,Yemen,Yemen Civil War,Ground Combat,30,The Guardian,Ground Combat reported in Yemen related to Yemen Civil War.,16.3196,49.492
+2023-07-25,Yemen,Yemen Civil War,Missile Strike,44,The Guardian,Missile Strike reported in Yemen related to Yemen Civil War.,16.3268,48.2104
+2023-07-27,Ukraine,Russia-Ukraine War,Ground Combat,0,Reuters,Ground Combat reported in Ukraine related to Russia-Ukraine War.,48.3298,32.0792
+2023-07-28,Yemen,Yemen Civil War,Ground Combat,35,Associated Press,Ground Combat reported in Yemen related to Yemen Civil War.,16.1052,47.6981
+2023-07-28,Yemen,Yemen Civil War,Political Negotiation,0,Reuters,Political Negotiation reported in Yemen related to Yemen Civil War.,15.8594,49.4983
+2023-07-30,Sudan,Sudan Civil War,Missile Strike,15,The Guardian,Missile Strike reported in Sudan related to Sudan Civil War.,12.7004,31.1388
+2023-07-31,Gaza,Israel-Hamas Conflict,Cyber Operation,0,Al Jazeera,Cyber Operation reported in Gaza related to Israel-Hamas Conflict.,31.5743,33.946
+2023-08-01,Sudan,Sudan Civil War,Ground Combat,64,Al Jazeera,Ground Combat reported in Sudan related to Sudan Civil War.,12.7353,29.8488
+2023-08-02,Yemen,Yemen Civil War,Missile Strike,7,BBC,Missile Strike reported in Yemen related to Yemen Civil War.,14.7235,48.5313
+2023-08-03,Yemen,Yemen Civil War,Ground Combat,0,The Guardian,Ground Combat reported in Yemen related to Yemen Civil War.,15.3868,48.847
+2023-08-04,Israel,Israel-Hamas Conflict,Airstrike,69,Associated Press,Airstrike reported in Israel related to Israel-Hamas Conflict.,31.5103,35.4816
+2023-08-06,Myanmar,Myanmar Conflict,Ground Combat,17,Reuters,Ground Combat reported in Myanmar related to Myanmar Conflict.,21.2686,95.4199
+2023-08-08,Sudan,Sudan Civil War,Ground Combat,0,BBC,Ground Combat reported in Sudan related to Sudan Civil War.,12.0265,29.8181
+2023-08-10,Israel,Israel-Hamas Conflict,Missile Strike,39,Associated Press,Missile Strike reported in Israel related to Israel-Hamas Conflict.,31.703,34.1688
+2023-08-10,Sudan,Sudan Civil War,Cyber Operation,46,Associated Press,Cyber Operation reported in Sudan related to Sudan Civil War.,12.4219,29.443
+2023-08-10,Myanmar,Myanmar Conflict,Cyber Operation,29,Associated Press,Cyber Operation reported in Myanmar related to Myanmar Conflict.,22.8705,95.1368
+2023-08-11,Gaza,Israel-Hamas Conflict,Cyber Operation,53,The Guardian,Cyber Operation reported in Gaza related to Israel-Hamas Conflict.,30.7713,33.8345
+2023-08-12,Sudan,Sudan Civil War,Political Negotiation,44,Al Jazeera,Political Negotiation reported in Sudan related to Sudan Civil War.,13.7728,29.9469
+2023-08-12,Ukraine,Russia-Ukraine War,Drone Attack,14,Associated Press,Drone Attack reported in Ukraine related to Russia-Ukraine War.,47.4627,30.2106
+2023-08-13,Yemen,Yemen Civil War,Cyber Operation,39,BBC,Cyber Operation reported in Yemen related to Yemen Civil War.,15.5699,47.6439
+2023-08-13,Myanmar,Myanmar Conflict,Cyber Operation,19,Al Jazeera,Cyber Operation reported in Myanmar related to Myanmar Conflict.,22.2143,95.5724
+2023-08-14,Myanmar,Myanmar Conflict,Drone Attack,22,Reuters,Drone Attack reported in Myanmar related to Myanmar Conflict.,22.9028,96.0542
+2023-08-14,Myanmar,Myanmar Conflict,Cyber Operation,0,Al Jazeera,Cyber Operation reported in Myanmar related to Myanmar Conflict.,21.1347,95.563
+2023-08-15,Yemen,Yemen Civil War,Ground Combat,8,Associated Press,Ground Combat reported in Yemen related to Yemen Civil War.,16.381,49.0327
+2023-08-16,Myanmar,Myanmar Conflict,Ground Combat,21,BBC,Ground Combat reported in Myanmar related to Myanmar Conflict.,21.0665,95.9572
+2023-08-16,Yemen,Yemen Civil War,Cyber Operation,38,Al Jazeera,Cyber Operation reported in Yemen related to Yemen Civil War.,16.5027,48.8255
+2023-08-17,Sudan,Sudan Civil War,Missile Strike,27,Reuters,Missile Strike reported in Sudan related to Sudan Civil War.,13.4674,30.2263
+2023-08-17,Gaza,Israel-Hamas Conflict,Political Negotiation,0,Al Jazeera,Political Negotiation reported in Gaza related to Israel-Hamas Conflict.,31.2245,33.7012
+2023-08-18,Myanmar,Myanmar Conflict,Missile Strike,39,Associated Press,Missile Strike reported in Myanmar related to Myanmar Conflict.,22.1758,95.7445
+2023-08-19,Yemen,Yemen Civil War,Missile Strike,27,BBC,Missile Strike reported in Yemen related to Yemen Civil War.,16.4293,47.9795
+2023-08-20,Myanmar,Myanmar Conflict,Ground Combat,29,Reuters,Ground Combat reported in Myanmar related to Myanmar Conflict.,22.0295,95.2223
+2023-08-22,Sudan,Sudan Civil War,Airstrike,52,Al Jazeera,Airstrike reported in Sudan related to Sudan Civil War.,12.6261,30.1669
+2023-08-22,Sudan,Sudan Civil War,Airstrike,7,BBC,Airstrike reported in Sudan related to Sudan Civil War.,12.5213,29.5886
+2023-08-23,Sudan,Sudan Civil War,Drone Attack,37,Reuters,Drone Attack reported in Sudan related to Sudan Civil War.,12.6315,30.2525
+2023-08-23,Yemen,Yemen Civil War,Missile Strike,29,Reuters,Missile Strike reported in Yemen related to Yemen Civil War.,15.3448,49.5013
+2023-08-23,Sudan,Sudan Civil War,Airstrike,18,Associated Press,Airstrike reported in Sudan related to Sudan Civil War.,11.9764,29.6002
+2023-08-23,Sudan,Sudan Civil War,Drone Attack,29,BBC,Drone Attack reported in Sudan related to Sudan Civil War.,12.0807,29.3741
+2023-08-24,Gaza,Israel-Hamas Conflict,Airstrike,22,Associated Press,Airstrike reported in Gaza related to Israel-Hamas Conflict.,31.8192,35.1367
+2023-08-24,Yemen,Yemen Civil War,Cyber Operation,0,Reuters,Cyber Operation reported in Yemen related to Yemen Civil War.,15.7907,48.5092
+2023-08-27,Yemen,Yemen Civil War,Drone Attack,32,BBC,Drone Attack reported in Yemen related to Yemen Civil War.,16.1189,47.964
+2023-08-27,Sudan,Sudan Civil War,Cyber Operation,43,Associated Press,Cyber Operation reported in Sudan related to Sudan Civil War.,12.1248,29.2461
+2023-08-30,Myanmar,Myanmar Conflict,Drone Attack,17,BBC,Drone Attack reported in Myanmar related to Myanmar Conflict.,22.804,95.2098
+2023-08-30,Ukraine,Russia-Ukraine War,Political Negotiation,0,Reuters,Political Negotiation reported in Ukraine related to Russia-Ukraine War.,47.7703,30.4675
+2023-08-31,Russia,Russia-Ukraine War,Ground Combat,44,Associated Press,Ground Combat reported in Russia related to Russia-Ukraine War.,54.7637,38.2156
+2023-08-31,Yemen,Yemen Civil War,Missile Strike,19,Associated Press,Missile Strike reported in Yemen related to Yemen Civil War.,14.6037,49.2651
+2023-08-31,Israel,Israel-Hamas Conflict,Missile Strike,52,The Guardian,Missile Strike reported in Israel related to Israel-Hamas Conflict.,30.0533,34.5799
+2023-08-31,West Bank,Israel-Hamas Conflict,Missile Strike,2,Reuters,Missile Strike reported in West Bank related to Israel-Hamas Conflict.,32.6409,35.2163
+2023-09-02,Sudan,Sudan Civil War,Ground Combat,34,Reuters,Ground Combat reported in Sudan related to Sudan Civil War.,12.7049,31.1945
+2023-09-02,Yemen,Yemen Civil War,Airstrike,22,Al Jazeera,Airstrike reported in Yemen related to Yemen Civil War.,15.578,47.8719
+2023-09-03,West Bank,Israel-Hamas Conflict,Ground Combat,54,Al Jazeera,Ground Combat reported in West Bank related to Israel-Hamas Conflict.,31.5496,35.709
+2023-09-03,Yemen,Yemen Civil War,Drone Attack,26,The Guardian,Drone Attack reported in Yemen related to Yemen Civil War.,14.5891,49.0497
+2023-09-03,Yemen,Yemen Civil War,Ground Combat,21,The Guardian,Ground Combat reported in Yemen related to Yemen Civil War.,15.3534,47.6506
+2023-09-05,Sudan,Sudan Civil War,Cyber Operation,21,Reuters,Cyber Operation reported in Sudan related to Sudan Civil War.,13.1354,29.9372
+2023-09-05,Yemen,Yemen Civil War,Ground Combat,37,The Guardian,Ground Combat reported in Yemen related to Yemen Civil War.,15.3824,48.0799
+2023-09-06,Yemen,Yemen Civil War,Political Negotiation,36,Al Jazeera,Political Negotiation reported in Yemen related to Yemen Civil War.,16.4776,48.7693
+2023-09-06,Ukraine,Russia-Ukraine War,Airstrike,35,Associated Press,Airstrike reported in Ukraine related to Russia-Ukraine War.,48.2284,31.8193
+2023-09-08,Yemen,Yemen Civil War,Cyber Operation,18,BBC,Cyber Operation reported in Yemen related to Yemen Civil War.,14.8419,47.5702
+2023-09-08,West Bank,Israel-Hamas Conflict,Drone Attack,23,BBC,Drone Attack reported in West Bank related to Israel-Hamas Conflict.,31.943,35.3818
+2023-09-09,Myanmar,Myanmar Conflict,Ground Combat,24,Reuters,Ground Combat reported in Myanmar related to Myanmar Conflict.,21.3429,95.7872
+2023-09-09,West Bank,Israel-Hamas Conflict,Missile Strike,67,The Guardian,Missile Strike reported in West Bank related to Israel-Hamas Conflict.,32.5697,36.237
+2023-09-10,Russia,Russia-Ukraine War,Drone Attack,15,Al Jazeera,Drone Attack reported in Russia related to Russia-Ukraine War.,55.2754,38.0186
+2023-09-11,Israel,Israel-Hamas Conflict,Missile Strike,16,Al Jazeera,Missile Strike reported in Israel related to Israel-Hamas Conflict.,30.3697,34.1952
+2023-09-12,Sudan,Sudan Civil War,Political Negotiation,38,Reuters,Political Negotiation reported in Sudan related to Sudan Civil War.,12.1093,31.0001
+2023-09-13,Gaza,Israel-Hamas Conflict,Missile Strike,45,Al Jazeera,Missile Strike reported in Gaza related to Israel-Hamas Conflict.,31.2022,33.3506
+2023-09-13,Israel,Israel-Hamas Conflict,Political Negotiation,62,Reuters,Political Negotiation reported in Israel related to Israel-Hamas Conflict.,31.0267,35.8338
+2023-09-13,Russia,Russia-Ukraine War,Ground Combat,10,Al Jazeera,Ground Combat reported in Russia related to Russia-Ukraine War.,56.1822,36.8724
+2023-09-13,Myanmar,Myanmar Conflict,Cyber Operation,12,The Guardian,Cyber Operation reported in Myanmar related to Myanmar Conflict.,21.9527,96.2782
+2023-09-14,Yemen,Yemen Civil War,Drone Attack,0,Al Jazeera,Drone Attack reported in Yemen related to Yemen Civil War.,14.5593,49.1118
+2023-09-15,Gaza,Israel-Hamas Conflict,Cyber Operation,35,Al Jazeera,Cyber Operation reported in Gaza related to Israel-Hamas Conflict.,32.2691,34.3391
+2023-09-15,Gaza,Israel-Hamas Conflict,Ground Combat,27,Al Jazeera,Ground Combat reported in Gaza related to Israel-Hamas Conflict.,31.8864,33.6967
+2023-09-15,Gaza,Israel-Hamas Conflict,Airstrike,75,Al Jazeera,Airstrike reported in Gaza related to Israel-Hamas Conflict.,31.0373,34.8658
+2023-09-15,Gaza,Israel-Hamas Conflict,Ground Combat,0,Reuters,Ground Combat reported in Gaza related to Israel-Hamas Conflict.,32.3058,34.2743
+2023-09-16,Yemen,Yemen Civil War,Missile Strike,0,Al Jazeera,Missile Strike reported in Yemen related to Yemen Civil War.,14.6264,47.8806
+2023-09-16,Israel,Israel-Hamas Conflict,Ground Combat,6,Al Jazeera,Ground Combat reported in Israel related to Israel-Hamas Conflict.,30.1469,34.2551
+2023-09-16,Ukraine,Russia-Ukraine War,Political Negotiation,25,BBC,Political Negotiation reported in Ukraine related to Russia-Ukraine War.,48.2811,30.2929
+2023-09-17,Gaza,Israel-Hamas Conflict,Cyber Operation,49,BBC,Cyber Operation reported in Gaza related to Israel-Hamas Conflict.,31.4487,33.3674
+2023-09-18,Israel,Israel-Hamas Conflict,Airstrike,51,Reuters,Airstrike reported in Israel related to Israel-Hamas Conflict.,30.3123,34.573
+2023-09-23,Israel,Israel-Hamas Conflict,Cyber Operation,63,Reuters,Cyber Operation reported in Israel related to Israel-Hamas Conflict.,30.3296,34.8997
+2023-09-23,Sudan,Sudan Civil War,Cyber Operation,27,Reuters,Cyber Operation reported in Sudan related to Sudan Civil War.,12.3871,30.6509
+2023-09-25,Sudan,Sudan Civil War,Airstrike,35,BBC,Airstrike reported in Sudan related to Sudan Civil War.,13.8062,29.4272
+2023-09-25,Gaza,Israel-Hamas Conflict,Drone Attack,11,Al Jazeera,Drone Attack reported in Gaza related to Israel-Hamas Conflict.,31.2483,34.1855
+2023-09-26,West Bank,Israel-Hamas Conflict,Missile Strike,48,The Guardian,Missile Strike reported in West Bank related to Israel-Hamas Conflict.,31.9629,35.9174
+2023-09-27,Gaza,Israel-Hamas Conflict,Missile Strike,15,Reuters,Missile Strike reported in Gaza related to Israel-Hamas Conflict.,32.3437,33.3827
+2023-09-29,Myanmar,Myanmar Conflict,Ground Combat,0,The Guardian,Ground Combat reported in Myanmar related to Myanmar Conflict.,21.7938,96.5029
+2023-09-29,Gaza,Israel-Hamas Conflict,Airstrike,16,Reuters,Airstrike reported in Gaza related to Israel-Hamas Conflict.,31.1671,35.0745
+2023-09-30,Russia,Russia-Ukraine War,Ground Combat,42,Al Jazeera,Ground Combat reported in Russia related to Russia-Ukraine War.,55.2725,37.7565
+2023-09-30,Israel,Israel-Hamas Conflict,Ground Combat,0,The Guardian,Ground Combat reported in Israel related to Israel-Hamas Conflict.,30.4395,34.2603
+2023-09-30,Israel,Israel-Hamas Conflict,Missile Strike,60,BBC,Missile Strike reported in Israel related to Israel-Hamas Conflict.,31.7107,35.2651
+2023-09-30,Myanmar,Myanmar Conflict,Cyber Operation,30,Associated Press,Cyber Operation reported in Myanmar related to Myanmar Conflict.,22.8768,96.2705
+2023-10-02,Sudan,Sudan Civil War,Missile Strike,0,Associated Press,Missile Strike reported in Sudan related to Sudan Civil War.,13.2213,30.5891
+2023-10-03,Gaza,Israel-Hamas Conflict,Ground Combat,18,BBC,Ground Combat reported in Gaza related to Israel-Hamas Conflict.,32.2441,34.8011
+2023-10-04,West Bank,Israel-Hamas Conflict,Political Negotiation,68,Associated Press,Political Negotiation reported in West Bank related to Israel-Hamas Conflict.,31.7256,34.955
+2023-10-06,Yemen,Yemen Civil War,Ground Combat,19,Al Jazeera,Ground Combat reported in Yemen related to Yemen Civil War.,15.4767,49.2867
+2023-10-07,Israel,Israel-Hamas Conflict,Cyber Operation,56,Reuters,Cyber Operation reported in Israel related to Israel-Hamas Conflict.,31.3819,34.5
+2023-10-07,West Bank,Israel-Hamas Conflict,Ground Combat,4,Reuters,Ground Combat reported in West Bank related to Israel-Hamas Conflict.,31.7461,35.3385
+2023-10-09,Ukraine,Russia-Ukraine War,Missile Strike,18,The Guardian,Missile Strike reported in Ukraine related to Russia-Ukraine War.,47.5708,31.556
+2023-10-09,Israel,Israel-Hamas Conflict,Drone Attack,54,Al Jazeera,Drone Attack reported in Israel related to Israel-Hamas Conflict.,31.9594,35.6837
+2023-10-10,West Bank,Israel-Hamas Conflict,Political Negotiation,69,Reuters,Political Negotiation reported in West Bank related to Israel-Hamas Conflict.,32.8296,35.7462
+2023-10-10,Myanmar,Myanmar Conflict,Political Negotiation,22,The Guardian,Political Negotiation reported in Myanmar related to Myanmar Conflict.,21.4921,96.9163
+2023-10-11,Yemen,Yemen Civil War,Missile Strike,27,The Guardian,Missile Strike reported in Yemen related to Yemen Civil War.,15.7238,48.4228
+2023-10-11,Gaza,Israel-Hamas Conflict,Drone Attack,78,Associated Press,Drone Attack reported in Gaza related to Israel-Hamas Conflict.,30.4716,34.243
+2023-10-12,Myanmar,Myanmar Conflict,Political Negotiation,10,The Guardian,Political Negotiation reported in Myanmar related to Myanmar Conflict.,21.4122,96.2068
+2023-10-12,Israel,Israel-Hamas Conflict,Cyber Operation,83,The Guardian,Cyber Operation reported in Israel related to Israel-Hamas Conflict.,30.7572,33.9096
+2023-10-12,West Bank,Israel-Hamas Conflict,Drone Attack,93,Associated Press,Drone Attack reported in West Bank related to Israel-Hamas Conflict.,32.6393,35.9611
+2023-10-12,Yemen,Yemen Civil War,Political Negotiation,0,Al Jazeera,Political Negotiation reported in Yemen related to Yemen Civil War.,14.8582,48.1227
+2023-10-13,Russia,Russia-Ukraine War,Ground Combat,85,Al Jazeera,Ground Combat reported in Russia related to Russia-Ukraine War.,55.0598,37.5952
+2023-10-15,West Bank,Israel-Hamas Conflict,Drone Attack,4,Associated Press,Drone Attack reported in West Bank related to Israel-Hamas Conflict.,30.9788,35.8878
+2023-10-17,Yemen,Yemen Civil War,Drone Attack,41,Al Jazeera,Drone Attack reported in Yemen related to Yemen Civil War.,16.152,47.686
+2023-10-17,Sudan,Sudan Civil War,Airstrike,30,The Guardian,Airstrike reported in Sudan related to Sudan Civil War.,12.4178,31.153
+2023-10-18,West Bank,Israel-Hamas Conflict,Missile Strike,44,Reuters,Missile Strike reported in West Bank related to Israel-Hamas Conflict.,31.724,35.2824
+2023-10-21,Ukraine,Russia-Ukraine War,Ground Combat,67,BBC,Ground Combat reported in Ukraine related to Russia-Ukraine War.,47.4345,31.3472
+2023-10-22,Ukraine,Russia-Ukraine War,Cyber Operation,0,The Guardian,Cyber Operation reported in Ukraine related to Russia-Ukraine War.,47.8708,31.0597
+2023-10-23,West Bank,Israel-Hamas Conflict,Cyber Operation,107,Associated Press,Cyber Operation reported in West Bank related to Israel-Hamas Conflict.,32.2565,35.7823
+2023-10-23,Sudan,Sudan Civil War,Drone Attack,30,The Guardian,Drone Attack reported in Sudan related to Sudan Civil War.,12.283,30.5863
+2023-10-23,Israel,Israel-Hamas Conflict,Drone Attack,0,Associated Press,Drone Attack reported in Israel related to Israel-Hamas Conflict.,31.4965,34.9646
+2023-10-25,Gaza,Israel-Hamas Conflict,Political Negotiation,34,The Guardian,Political Negotiation reported in Gaza related to Israel-Hamas Conflict.,31.2909,33.8975
+2023-10-25,Yemen,Yemen Civil War,Drone Attack,8,Al Jazeera,Drone Attack reported in Yemen related to Yemen Civil War.,16.1199,47.9773
+2023-10-27,Gaza,Israel-Hamas Conflict,Airstrike,18,Al Jazeera,Airstrike reported in Gaza related to Israel-Hamas Conflict.,31.7914,34.0334
+2023-10-28,Israel,Israel-Hamas Conflict,Cyber Operation,32,Associated Press,Cyber Operation reported in Israel related to Israel-Hamas Conflict.,31.3239,34.5964
+2023-10-30,Israel,Israel-Hamas Conflict,Drone Attack,17,Associated Press,Drone Attack reported in Israel related to Israel-Hamas Conflict.,30.4108,34.4155
+2023-10-30,Myanmar,Myanmar Conflict,Ground Combat,23,Reuters,Ground Combat reported in Myanmar related to Myanmar Conflict.,22.8855,95.8373
+2023-10-31,West Bank,Israel-Hamas Conflict,Cyber Operation,38,Reuters,Cyber Operation reported in West Bank related to Israel-Hamas Conflict.,32.5061,34.8905
+2023-10-31,Russia,Russia-Ukraine War,Missile Strike,0,Associated Press,Missile Strike reported in Russia related to Russia-Ukraine War.,54.9588,36.9028
+2023-11-01,Ukraine,Russia-Ukraine War,Drone Attack,39,Associated Press,Drone Attack reported in Ukraine related to Russia-Ukraine War.,48.8208,31.7949
+2023-11-02,Israel,Israel-Hamas Conflict,Political Negotiation,43,The Guardian,Political Negotiation reported in Israel related to Israel-Hamas Conflict.,32.0342,34.6592
+2023-11-02,Yemen,Yemen Civil War,Ground Combat,35,The Guardian,Ground Combat reported in Yemen related to Yemen Civil War.,15.9383,48.578
+2023-11-04,Yemen,Yemen Civil War,Political Negotiation,35,Associated Press,Political Negotiation reported in Yemen related to Yemen Civil War.,14.8313,48.5639
+2023-11-05,Russia,Russia-Ukraine War,Ground Combat,56,BBC,Ground Combat reported in Russia related to Russia-Ukraine War.,55.9865,38.5333
+2023-11-05,Russia,Russia-Ukraine War,Drone Attack,0,The Guardian,Drone Attack reported in Russia related to Russia-Ukraine War.,56.2475,37.0373
+2023-11-05,West Bank,Israel-Hamas Conflict,Political Negotiation,72,Reuters,Political Negotiation reported in West Bank related to Israel-Hamas Conflict.,32.3406,35.7763
+2023-11-06,Ukraine,Russia-Ukraine War,Political Negotiation,22,Al Jazeera,Political Negotiation reported in Ukraine related to Russia-Ukraine War.,48.6517,30.2227
+2023-11-06,West Bank,Israel-Hamas Conflict,Cyber Operation,4,Associated Press,Cyber Operation reported in West Bank related to Israel-Hamas Conflict.,32.2059,36.0284
+2023-11-07,Russia,Russia-Ukraine War,Cyber Operation,48,Associated Press,Cyber Operation reported in Russia related to Russia-Ukraine War.,55.6433,38.4916
+2023-11-07,Gaza,Israel-Hamas Conflict,Airstrike,37,Reuters,Airstrike reported in Gaza related to Israel-Hamas Conflict.,30.7229,34.2081
+2023-11-08,Yemen,Yemen Civil War,Political Negotiation,16,Al Jazeera,Political Negotiation reported in Yemen related to Yemen Civil War.,15.2639,48.3189
+2023-11-08,Israel,Israel-Hamas Conflict,Ground Combat,32,BBC,Ground Combat reported in Israel related to Israel-Hamas Conflict.,30.3527,35.6199
+2023-11-10,Yemen,Yemen Civil War,Political Negotiation,35,Associated Press,Political Negotiation reported in Yemen related to Yemen Civil War.,16.3058,49.4008
+2023-11-11,Yemen,Yemen Civil War,Political Negotiation,41,Reuters,Political Negotiation reported in Yemen related to Yemen Civil War.,15.7018,48.0906
+2023-11-12,Ukraine,Russia-Ukraine War,Cyber Operation,0,Associated Press,Cyber Operation reported in Ukraine related to Russia-Ukraine War.,48.9576,31.8023
+2023-11-14,Russia,Russia-Ukraine War,Missile Strike,62,Al Jazeera,Missile Strike reported in Russia related to Russia-Ukraine War.,56.4113,37.4248
+2023-11-15,Sudan,Sudan Civil War,Drone Attack,20,Reuters,Drone Attack reported in Sudan related to Sudan Civil War.,12.0077,30.2894
+2023-11-15,Ukraine,Russia-Ukraine War,Drone Attack,33,BBC,Drone Attack reported in Ukraine related to Russia-Ukraine War.,49.0317,30.5877
+2023-11-16,Ukraine,Russia-Ukraine War,Political Negotiation,0,Associated Press,Political Negotiation reported in Ukraine related to Russia-Ukraine War.,49.2748,31.3198
+2023-11-17,Yemen,Yemen Civil War,Missile Strike,3,Associated Press,Missile Strike reported in Yemen related to Yemen Civil War.,16.044,49.0945
+2023-11-19,West Bank,Israel-Hamas Conflict,Missile Strike,20,Associated Press,Missile Strike reported in West Bank related to Israel-Hamas Conflict.,30.9766,34.3257
+2023-11-19,Yemen,Yemen Civil War,Cyber Operation,42,BBC,Cyber Operation reported in Yemen related to Yemen Civil War.,15.9381,47.6069
+2023-11-20,Gaza,Israel-Hamas Conflict,Missile Strike,91,Reuters,Missile Strike reported in Gaza related to Israel-Hamas Conflict.,32.0287,33.3373
+2023-11-21,Yemen,Yemen Civil War,Political Negotiation,39,Reuters,Political Negotiation reported in Yemen related to Yemen Civil War.,14.7516,48.1171
+2023-11-22,West Bank,Israel-Hamas Conflict,Ground Combat,29,BBC,Ground Combat reported in West Bank related to Israel-Hamas Conflict.,31.128,34.9866
+2023-11-24,Ukraine,Russia-Ukraine War,Drone Attack,48,The Guardian,Drone Attack reported in Ukraine related to Russia-Ukraine War.,48.8865,31.7499
+2023-11-25,Russia,Russia-Ukraine War,Ground Combat,14,Associated Press,Ground Combat reported in Russia related to Russia-Ukraine War.,56.5384,36.7492
+2023-11-25,Yemen,Yemen Civil War,Ground Combat,28,BBC,Ground Combat reported in Yemen related to Yemen Civil War.,15.2089,47.8949
+2023-11-26,Russia,Russia-Ukraine War,Cyber Operation,41,Reuters,Cyber Operation reported in Russia related to Russia-Ukraine War.,54.9606,37.7509
+2023-11-27,Sudan,Sudan Civil War,Ground Combat,0,Reuters,Ground Combat reported in Sudan related to Sudan Civil War.,13.7941,29.8367
+2023-11-28,Israel,Israel-Hamas Conflict,Missile Strike,22,BBC,Missile Strike reported in Israel related to Israel-Hamas Conflict.,30.8152,35.1432
+2023-11-30,West Bank,Israel-Hamas Conflict,Missile Strike,18,Al Jazeera,Missile Strike reported in West Bank related to Israel-Hamas Conflict.,32.7374,34.6402
+2023-12-01,Ukraine,Russia-Ukraine War,Political Negotiation,54,BBC,Political Negotiation reported in Ukraine related to Russia-Ukraine War.,47.5439,31.6326
+2023-12-06,West Bank,Israel-Hamas Conflict,Ground Combat,31,BBC,Ground Combat reported in West Bank related to Israel-Hamas Conflict.,32.5833,35.7824
+2023-12-08,West Bank,Israel-Hamas Conflict,Political Negotiation,72,BBC,Political Negotiation reported in West Bank related to Israel-Hamas Conflict.,31.0776,35.0045
+2023-12-13,Israel,Israel-Hamas Conflict,Drone Attack,17,Associated Press,Drone Attack reported in Israel related to Israel-Hamas Conflict.,31.0131,34.6679
+2023-12-13,Ukraine,Russia-Ukraine War,Airstrike,16,Reuters,Airstrike reported in Ukraine related to Russia-Ukraine War.,48.5136,30.7731
+2023-12-14,Russia,Russia-Ukraine War,Drone Attack,65,Associated Press,Drone Attack reported in Russia related to Russia-Ukraine War.,54.8574,36.655
+2023-12-15,Ukraine,Russia-Ukraine War,Ground Combat,25,The Guardian,Ground Combat reported in Ukraine related to Russia-Ukraine War.,47.7784,31.3818
+2023-12-16,Ukraine,Russia-Ukraine War,Drone Attack,0,BBC,Drone Attack reported in Ukraine related to Russia-Ukraine War.,49.0605,31.9944
+2023-12-16,Yemen,Yemen Civil War,Missile Strike,35,The Guardian,Missile Strike reported in Yemen related to Yemen Civil War.,15.2366,48.0195
+2023-12-17,Gaza,Israel-Hamas Conflict,Cyber Operation,30,Al Jazeera,Cyber Operation reported in Gaza related to Israel-Hamas Conflict.,31.7675,35.2817
+2023-12-20,Gaza,Israel-Hamas Conflict,Cyber Operation,40,The Guardian,Cyber Operation reported in Gaza related to Israel-Hamas Conflict.,30.7408,34.0373
+2023-12-22,Russia,Russia-Ukraine War,Ground Combat,0,Reuters,Ground Combat reported in Russia related to Russia-Ukraine War.,54.8566,37.8183
+2023-12-23,Yemen,Yemen Civil War,Political Negotiation,5,Reuters,Political Negotiation reported in Yemen related to Yemen Civil War.,14.7643,48.7087
+2023-12-24,Russia,Russia-Ukraine War,Drone Attack,54,Al Jazeera,Drone Attack reported in Russia related to Russia-Ukraine War.,55.1261,37.2417
+2023-12-24,Russia,Russia-Ukraine War,Political Negotiation,11,BBC,Political Negotiation reported in Russia related to Russia-Ukraine War.,55.7119,36.9743
+2023-12-24,Russia,Russia-Ukraine War,Cyber Operation,10,Reuters,Cyber Operation reported in Russia related to Russia-Ukraine War.,55.4494,38.0266
+2023-12-25,Sudan,Sudan Civil War,Ground Combat,47,Reuters,Ground Combat reported in Sudan related to Sudan Civil War.,13.6828,29.9252
+2023-12-28,Myanmar,Myanmar Conflict,Political Negotiation,49,Associated Press,Political Negotiation reported in Myanmar related to Myanmar Conflict.,21.0985,95.2834
+2023-12-30,Yemen,Yemen Civil War,Political Negotiation,41,Al Jazeera,Political Negotiation reported in Yemen related to Yemen Civil War.,16.1699,47.7044
+2023-12-30,Ukraine,Russia-Ukraine War,Ground Combat,0,BBC,Ground Combat reported in Ukraine related to Russia-Ukraine War.,47.9613,31.4168
+2023-12-31,Yemen,Yemen Civil War,Drone Attack,0,Associated Press,Drone Attack reported in Yemen related to Yemen Civil War.,15.9479,49.2314
+2024-01-03,Ukraine,Russia-Ukraine War,Missile Strike,41,Associated Press,Missile Strike reported in Ukraine related to Russia-Ukraine War.,47.8152,31.598
+2024-01-05,Russia,Russia-Ukraine War,Drone Attack,37,Reuters,Drone Attack reported in Russia related to Russia-Ukraine War.,55.0211,38.2012
+2024-01-06,Ukraine,Russia-Ukraine War,Drone Attack,43,Associated Press,Drone Attack reported in Ukraine related to Russia-Ukraine War.,49.1506,31.2564
+2024-01-08,Russia,Russia-Ukraine War,Airstrike,0,Associated Press,Airstrike reported in Russia related to Russia-Ukraine War.,56.1322,38.3996
+2024-01-15,Ukraine,Russia-Ukraine War,Missile Strike,66,The Guardian,Missile Strike reported in Ukraine related to Russia-Ukraine War.,48.7712,31.1608
+2024-01-16,Israel,Israel-Hamas Conflict,Drone Attack,54,Al Jazeera,Drone Attack reported in Israel related to Israel-Hamas Conflict.,31.6159,34.2687
+2024-01-30,Israel,Israel-Hamas Conflict,Drone Attack,21,Reuters,Drone Attack reported in Israel related to Israel-Hamas Conflict.,31.3452,34.815
+2024-02-19,Russia,Russia-Ukraine War,Drone Attack,24,Reuters,Drone Attack reported in Russia related to Russia-Ukraine War.,54.8771,38.0203
+2024-02-22,Ukraine,Russia-Ukraine War,Airstrike,14,Associated Press,Airstrike reported in Ukraine related to Russia-Ukraine War.,47.6743,30.6735
+2024-03-11,Russia,Russia-Ukraine War,Drone Attack,11,Reuters,Drone Attack reported in Russia related to Russia-Ukraine War.,55.8781,38.1349
+2024-03-17,Russia,Russia-Ukraine War,Political Negotiation,42,BBC,Political Negotiation reported in Russia related to Russia-Ukraine War.,55.9703,37.2729
+2024-03-24,Ukraine,Russia-Ukraine War,Cyber Operation,38,The Guardian,Cyber Operation reported in Ukraine related to Russia-Ukraine War.,48.5029,31.6856
+2024-03-27,Russia,Russia-Ukraine War,Drone Attack,36,Al Jazeera,Drone Attack reported in Russia related to Russia-Ukraine War.,56.6737,37.9065
+2024-03-31,Russia,Russia-Ukraine War,Drone Attack,29,Al Jazeera,Drone Attack reported in Russia related to Russia-Ukraine War.,55.1431,37.8276
+2024-04-08,Russia,Russia-Ukraine War,Ground Combat,28,The Guardian,Ground Combat reported in Russia related to Russia-Ukraine War.,55.6836,36.6425
+2024-04-19,Russia,Russia-Ukraine War,Missile Strike,23,Associated Press,Missile Strike reported in Russia related to Russia-Ukraine War.,56.7025,37.8296
+2024-05-06,Russia,Russia-Ukraine War,Missile Strike,27,Reuters,Missile Strike reported in Russia related to Russia-Ukraine War.,54.7682,36.9972
+2024-05-31,Russia,Russia-Ukraine War,Political Negotiation,14,Associated Press,Political Negotiation reported in Russia related to Russia-Ukraine War.,54.7685,38.3062
